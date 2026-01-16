@@ -78,25 +78,25 @@ Results-driven Senior Full-Stack Engineer with **9+ years of experience** delive
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaiamin&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaiamin&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivaiamin&layout=compact&theme=vue&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rivaiamin&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rivaiamin&theme=vue&hide_border=true&area=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivaiamin&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rivaiamin&theme=vue&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rivaiamin&theme=vue&hide_border=true&area=true)
 
 </div>
 
